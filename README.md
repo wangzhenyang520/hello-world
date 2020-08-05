@@ -1,2 +1,2 @@
 # hello-world
-The hello-world repository can be a place where I store ideas, resources, or even share and discuss things with others
+The hello-world repository can be a place where I store ideas, resources, or even share and discuss things with others. It is a repository for training and excerising.
